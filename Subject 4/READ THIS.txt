@@ -1,0 +1,3 @@
+- this program was made on .NET Framework 4.8 (because it has the needed components to create such graph), so in order to run it you'd have to install it through setup.
+
+- эта программа была сделана на .NET Framework 4.8 (потому что у нее есть необходимые компоненты чтобы создать такой график), поэтому чтобы запустить её необходимо будет установить через сетап. (setup.exe)
